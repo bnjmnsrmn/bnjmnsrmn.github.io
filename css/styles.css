@@ -32,6 +32,11 @@ html {
 	font-size: 3em;
 }
 
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
 /* Custom Styles */
 
 main {
