@@ -69,3 +69,17 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+/* Theme */
+
+main.theme {
+	background: #ffffff;
+	color: #000000;
+}
+
+.icons-social a {
+	color: #000000;
+}
+
+.icons-social a svg path{
+	fill: #000000;
+}
