@@ -41,6 +41,8 @@ main {
 	justify-content: center;
 	padding: 0 30px;
 	text-align: center;
+	background: #ffffff;
+	color: #000000;
 }
 
 main > .intro {
@@ -68,12 +70,6 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
-}
-/* Theme */
-
-main.theme {
-	background: #ffffff;
-	color: #000000;
 }
 
 .icons-social a {
